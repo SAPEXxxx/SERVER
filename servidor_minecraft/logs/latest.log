@@ -667,3 +667,57 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [26Sep2025 02:27:32.169] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
 [26Sep2025 02:27:32.172] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
 [26Sep2025 02:27:43.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:28:28.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: martius111[/127.249.42.87:35927] logged in with entity id 9037 at (10.5, 79.0, -9.5)
+[26Sep2025 02:28:28.667] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player martius111
+[26Sep2025 02:28:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 joined the game
+[26Sep2025 02:28:31.466] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of martius111 (18)
+[26Sep2025 02:28:31.466] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to martius111
+[26Sep2025 02:28:32.828] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/9159, l='ServerLevel[world]', x=-136.50, y=22.00, z=-367.50] as it would cause deadlock
+[26Sep2025 02:28:37.684] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/9235, l='ServerLevel[world]', x=-91.50, y=-3.00, z=-368.50] as it would cause deadlock
+[26Sep2025 02:28:37.765] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/9239, l='ServerLevel[world]', x=-141.50, y=-3.00, z=-375.50] as it would cause deadlock
+[26Sep2025 02:28:37.769] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/9241, l='ServerLevel[world]', x=-136.50, y=22.00, z=-375.50] as it would cause deadlock
+[26Sep2025 02:28:41.117] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 02:28:50.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:28:50.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:29:03.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:29:08.141] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 02:29:20.540] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1183, l='ServerLevel[world]', x=170.40, y=77.00, z=163.37] died, message: 'Fisherman was slain by Draugr'
+[26Sep2025 02:29:26.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1185, l='ServerLevel[world]', x=167.31, y=82.00, z=170.09] died, message: 'Fisherman was slain by Draugr'
+[26Sep2025 02:30:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Stone Age]
+[26Sep2025 02:30:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [Dungeon Now Loading]
+[26Sep2025 02:30:30.095] [Server thread/WARN] [tombstone/]: The death event of the player SAPEXx_ was canceled by another mod
+[26Sep2025 02:30:30.100] [Server thread/INFO] [tombstone/]: The player SAPEXx_ has successfully been saved
+[26Sep2025 02:30:43.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [Stone Age]
+[26Sep2025 02:30:59.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ was slain by Man From The Fog
+[26Sep2025 02:30:59.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Your First Grave]
+[26Sep2025 02:31:02.454] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[26Sep2025 02:31:02.454] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[26Sep2025 02:31:02.454] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[26Sep2025 02:31:02.455] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[26Sep2025 02:31:11.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:31:14.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has reached the goal [Here They Come]
+[26Sep2025 02:31:31.930] [Server thread/WARN] [tombstone/]: The death event of the player Hanny_0310 was canceled by another mod
+[26Sep2025 02:31:31.931] [Server thread/INFO] [tombstone/]: The player Hanny_0310 has successfully been saved
+[26Sep2025 02:32:22.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martius111 lost connection: Disconnected
+[26Sep2025 02:32:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 left the game
+[26Sep2025 02:32:22.931] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client martius111
+[26Sep2025 02:32:30.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: martius111[/127.249.42.87:41479] logged in with entity id 11369 at (3.3938045001135437, 70.0, 6.699999988079071)
+[26Sep2025 02:32:30.308] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player martius111
+[26Sep2025 02:32:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 joined the game
+[26Sep2025 02:32:30.604] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of martius111 (18)
+[26Sep2025 02:32:30.605] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to martius111
+[26Sep2025 02:32:36.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Getting an Upgrade]
+[26Sep2025 02:33:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [Getting an Upgrade]
+[26Sep2025 02:33:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Monster Hunter]
+[26Sep2025 02:33:42.172] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:33:47.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [Frosted Prison]
+[26Sep2025 02:34:49.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Monster Hunter]
+[26Sep2025 02:35:38.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Sweet Dreams]
+[26Sep2025 02:35:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Sweet Dreams]
+[26Sep2025 02:35:39.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [Sweet Dreams]
+[26Sep2025 02:36:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has reached the goal [Quaint Scribe]
+[26Sep2025 02:37:47.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:37:49.187] [Server thread/WARN] [tombstone/]: The death event of the player SAPEXx_ was canceled by another mod
+[26Sep2025 02:37:49.191] [Server thread/INFO] [tombstone/]: The player SAPEXx_ has successfully been saved
+[26Sep2025 02:37:55.883] [Server thread/WARN] [tombstone/]: The death event of the player Hanny_0310 was canceled by another mod
+[26Sep2025 02:37:55.886] [Server thread/INFO] [tombstone/]: The player Hanny_0310 has successfully been saved
