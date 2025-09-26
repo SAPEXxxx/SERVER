@@ -612,3 +612,58 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [26Sep2025 02:17:28.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
 [26Sep2025 02:17:29.045] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
 [26Sep2025 02:17:29.045] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 02:17:47.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:18:22.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:18:44.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Frosted Prison]
+[26Sep2025 02:18:50.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Dungeon Now Loading]
+[26Sep2025 02:18:54.127] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3233, l='ServerLevel[world]', x=6.50, y=-53.00, z=-234.50] as it would cause deadlock
+[26Sep2025 02:18:57.791] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/3293, l='ServerLevel[world]', x=59.50, y=-28.00, z=-250.50] as it would cause deadlock
+[26Sep2025 02:18:57.983] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3306, l='ServerLevel[world]', x=121.50, y=-28.00, z=-241.50] as it would cause deadlock
+[26Sep2025 02:18:58.028] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3309, l='ServerLevel[world]', x=129.50, y=-28.00, z=-241.50] as it would cause deadlock
+[26Sep2025 02:19:03.738] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3404, l='ServerLevel[world]', x=63.50, y=-28.00, z=-273.50] as it would cause deadlock
+[26Sep2025 02:19:03.838] [Worker-Main-31/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 02:19:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has reached the goal [Feeling Watched]
+[26Sep2025 02:19:18.969] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/3520, l='ServerLevel[world]', x=-110.50, y=-53.00, z=-303.50] as it would cause deadlock
+[26Sep2025 02:19:19.725] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3565, l='ServerLevel[world]', x=25.50, y=-28.00, z=-293.50] as it would cause deadlock
+[26Sep2025 02:19:38.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:19:38.663] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/3844, l='ServerLevel[world]', x=1.50, y=-53.00, z=-333.50] as it would cause deadlock
+[26Sep2025 02:19:38.705] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3848, l='ServerLevel[world]', x=33.50, y=-28.00, z=-331.50] as it would cause deadlock
+[26Sep2025 02:19:44.502] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/4005, l='ServerLevel[world]', x=-75.50, y=19.00, z=-345.50] as it would cause deadlock
+[26Sep2025 02:19:47.767] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/4069, l='ServerLevel[world]', x=110.50, y=-53.00, z=-365.50] as it would cause deadlock
+[26Sep2025 02:19:47.768] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/4071, l='ServerLevel[world]', x=102.50, y=-53.00, z=-365.50] as it would cause deadlock
+[26Sep2025 02:19:47.793] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/4073, l='ServerLevel[world]', x=41.50, y=-3.00, z=-356.50] as it would cause deadlock
+[26Sep2025 02:19:47.830] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/4083, l='ServerLevel[world]', x=26.50, y=22.00, z=-357.50] as it would cause deadlock
+[26Sep2025 02:19:52.191] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/4188, l='ServerLevel[world]', x=-31.50, y=-9.00, z=-377.50] as it would cause deadlock
+[26Sep2025 02:19:52.298] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/4205, l='ServerLevel[world]', x=156.50, y=-53.00, z=-383.50] as it would cause deadlock
+[26Sep2025 02:19:53.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:20:18.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:20:30.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:20:30.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:20:37.339] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 02:21:40.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Frosted Prison]
+[26Sep2025 02:21:57.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:21:57.331] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/6114, l='ServerLevel[world]', x=-144.50, y=-53.00, z=-299.50] as it would cause deadlock
+[26Sep2025 02:21:59.856] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6233, l='ServerLevel[world]', x=-144.50, y=-53.00, z=-307.50] as it would cause deadlock
+[26Sep2025 02:22:00.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:22:00.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:22:12.538] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 02:22:20.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Disconnected
+[26Sep2025 02:22:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 02:22:20.400] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 02:22:27.909] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/6756, l='ServerLevel[world]', x=-317.50, y=-28.00, z=7.50] as it would cause deadlock
+[26Sep2025 02:23:46.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:24:17.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Dungeon Now Loading]
+[26Sep2025 02:24:25.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:24:42.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Stone Age]
+[26Sep2025 02:25:38.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:25:52.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Getting an Upgrade]
+[26Sep2025 02:26:00.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:26:43.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:27:05.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:27:08.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:27:30.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:55515] logged in with entity id 8130 at (372.5476150876251, 71.0, -222.87932072179802)
+[26Sep2025 02:27:30.167] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 02:27:30.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 02:27:32.169] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 02:27:32.172] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 02:27:43.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
