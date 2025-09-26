@@ -1027,3 +1027,24 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [26Sep2025 03:17:46.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
 [26Sep2025 03:17:54.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAPEXx_: Teleported SAPEXx_ to Hanny_0310]
 [26Sep2025 03:18:05.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:18:38.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:18:39.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:18:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Tools of the Trade]
+[26Sep2025 03:20:32.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAPEXx_: Gave 1 [Cassette 1: Safety Instructions] to 2]
+[26Sep2025 03:20:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAPEXx_: Gave 1 [Cassette Recorder] to 2]
+[26Sep2025 03:21:03.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:21:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAPEXx_: Teleported SAPEXx_ to Hanny_0310]
+[26Sep2025 03:21:56.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:25:57.082] [Server thread/WARN] [tombstone/]: The death event of the player SAPEXx_ was canceled by another mod
+[26Sep2025 03:25:57.083] [Server thread/INFO] [tombstone/]: The player SAPEXx_ has successfully been saved
+[26Sep2025 03:27:27.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Disconnected
+[26Sep2025 03:27:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 03:27:27.682] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 03:27:39.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:48061] logged in with entity id 36428 at (1985.1092469158739, 70.0, 430.5434935685793)
+[26Sep2025 03:27:39.960] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 03:27:39.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 03:27:40.191] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 03:27:40.191] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 03:27:43.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Knowledge of Death]
+[26Sep2025 03:27:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Ashes 'n Bones]
+[26Sep2025 03:28:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Knowledge raises the soul]
