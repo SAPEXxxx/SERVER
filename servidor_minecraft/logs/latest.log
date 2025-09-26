@@ -598,3 +598,17 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [26Sep2025 02:05:09.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
 [26Sep2025 02:05:43.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
 [26Sep2025 02:06:10.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/1172, l='ServerLevel[world]', x=162.56, y=75.00, z=138.66] died, message: 'Gunsmith was slain by Royal Draugr'
+[26Sep2025 02:07:58.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/1032, l='ServerLevel[world]', x=146.38, y=72.00, z=136.79] died, message: 'Gunsmith was slain by Royal Draugr'
+[26Sep2025 02:10:14.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Disconnected
+[26Sep2025 02:10:14.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 02:10:14.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 02:17:24.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hanny_0310[/127.114.208.59:58555] logged in with entity id 2521 at (-3.5, 239.0, 2.5)
+[26Sep2025 02:17:24.908] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Hanny_0310
+[26Sep2025 02:17:24.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 joined the game
+[26Sep2025 02:17:28.062] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hanny_0310 (18)
+[26Sep2025 02:17:28.063] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hanny_0310
+[26Sep2025 02:17:28.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:49785] logged in with entity id 2545 at (-2.800194626861084, 221.0, 6.062081815026807)
+[26Sep2025 02:17:28.622] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 02:17:28.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 02:17:29.045] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 02:17:29.045] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
