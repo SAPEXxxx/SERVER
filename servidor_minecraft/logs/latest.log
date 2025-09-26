@@ -923,3 +923,60 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [26Sep2025 02:56:10.799] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/21771, l='ServerLevel[world]', x=-78.50, y=22.00, z=-466.50] as it would cause deadlock
 [26Sep2025 02:57:11.785] [Server thread/WARN] [tombstone/]: The death event of the player SAPEXx_ was canceled by another mod
 [26Sep2025 02:57:11.840] [Server thread/INFO] [tombstone/]: The player SAPEXx_ has successfully been saved
+[26Sep2025 02:58:09.387] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 02:58:33.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:58:39.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:59:26.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=63, z=-657} BlockPos{x=419, y=63, z=-656}
+[26Sep2025 03:00:58.802] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/24702, l='ServerLevel[world]', x=800.50, y=22.00, z=-675.50] as it would cause deadlock
+[26Sep2025 03:01:19.021] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/24942, l='ServerLevel[world]', x=859.50, y=-53.00, z=-1096.50] as it would cause deadlock
+[26Sep2025 03:01:20.407] [Worker-Main-29/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 03:01:28.682] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/25252, l='ServerLevel[world]', x=778.50, y=-53.00, z=-1178.50] as it would cause deadlock
+[26Sep2025 03:01:36.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [The Lighthouse]
+[26Sep2025 03:01:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [The Lighthouse]
+[26Sep2025 03:01:42.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [The Lighthouse]
+[26Sep2025 03:02:09.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [Acquire Hardware]
+[26Sep2025 03:02:11.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Acquire Hardware]
+[26Sep2025 03:03:10.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:03:24.883] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 03:04:07.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:04:27.780] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 03:04:29.828] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[26Sep2025 03:04:29.828] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+[26Sep2025 03:04:29.842] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[26Sep2025 03:04:29.842] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[26Sep2025 03:04:29.842] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[26Sep2025 03:04:29.842] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[26Sep2025 03:04:29.843] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[26Sep2025 03:04:30.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:04:50.324] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27308, l='ServerLevel[world]', x=1257.50, y=-53.00, z=-736.50] as it would cause deadlock
+[26Sep2025 03:04:50.324] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27310, l='ServerLevel[world]', x=1249.50, y=-53.00, z=-736.50] as it would cause deadlock
+[26Sep2025 03:04:51.165] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27328, l='ServerLevel[world]', x=868.50, y=22.00, z=-647.50] as it would cause deadlock
+[26Sep2025 03:04:51.166] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/27330, l='ServerLevel[world]', x=868.50, y=22.00, z=-655.50] as it would cause deadlock
+[26Sep2025 03:04:51.331] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27337, l='ServerLevel[world]', x=892.50, y=16.00, z=-641.50] as it would cause deadlock
+[26Sep2025 03:04:51.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:05:02.549] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27474, l='ServerLevel[world]', x=1298.50, y=-53.00, z=-687.50] as it would cause deadlock
+[26Sep2025 03:05:03.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:05:08.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [Mine? Mine? Mine?]
+[26Sep2025 03:05:13.964] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/27580, l='ServerLevel[world]', x=1256.50, y=-53.00, z=-632.50] as it would cause deadlock
+[26Sep2025 03:05:14.103] [Worker-Main-31/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 03:05:14.103] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/27592, l='ServerLevel[world]', x=1325.50, y=-53.00, z=-639.50] as it would cause deadlock
+[26Sep2025 03:05:14.120] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27594, l='ServerLevel[world]', x=1299.50, y=-53.00, z=-639.50] as it would cause deadlock
+[26Sep2025 03:05:15.416] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27620, l='ServerLevel[world]', x=1351.50, y=-53.00, z=-643.50] as it would cause deadlock
+[26Sep2025 03:05:15.745] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27622, l='ServerLevel[world]', x=1351.50, y=-53.00, z=-635.50] as it would cause deadlock
+[26Sep2025 03:05:26.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:05:51.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Diamonds!]
+[26Sep2025 03:05:54.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Isn't It Iron Pick]
+[26Sep2025 03:06:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 has made the advancement [Tools of the Trade]
+[26Sep2025 03:06:02.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanny_0310 has made the advancement [Suit Up]
+[26Sep2025 03:06:19.932] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/27953, l='ServerLevel[world]', x=1401.50, y=-3.00, z=-862.50] as it would cause deadlock
+[26Sep2025 03:06:25.310] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/28021, l='ServerLevel[world]', x=1419.50, y=22.00, z=-994.50] as it would cause deadlock
+[26Sep2025 03:06:41.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:06:53.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Acquire Hardware]
+[26Sep2025 03:07:09.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ has made the advancement [Isn't It Iron Pick]
+[26Sep2025 03:07:21.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:07:22.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martius111 lost connection: Disconnected
+[26Sep2025 03:07:22.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martius111 left the game
+[26Sep2025 03:07:22.935] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client martius111
+[26Sep2025 03:07:41.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 03:07:55.882] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 03:08:00.981] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []

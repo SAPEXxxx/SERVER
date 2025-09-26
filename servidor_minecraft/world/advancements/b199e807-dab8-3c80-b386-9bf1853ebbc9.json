@@ -115,14 +115,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-09-26 02:58:21 +0000",
       "minecraft:taiga": "2025-09-26 02:20:46 +0000",
       "minecraft:frozen_river": "2025-09-26 02:19:03 +0000",
       "minecraft:beach": "2025-09-26 02:20:23 +0000",
+      "minecraft:river": "2025-09-26 02:56:38 +0000",
       "minecraft:snowy_plains": "2025-09-26 02:37:24 +0000",
       "minecraft:snowy_taiga": "2025-09-26 02:02:52 +0000",
+      "minecraft:swamp": "2025-09-26 02:58:02 +0000",
       "minecraft:cold_ocean": "2025-09-26 02:20:26 +0000",
       "minecraft:forest": "2025-09-26 02:21:40 +0000",
       "minecraft:frozen_ocean": "2025-09-26 02:20:28 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-09-26 02:58:31 +0000",
       "minecraft:snowy_beach": "2025-09-26 02:20:11 +0000"
     },
     "done": false
@@ -617,6 +621,7 @@
     "criteria": {
       "sweet_berries": "2025-09-26 02:21:20 +0000",
       "beef": "2025-09-26 02:18:28 +0000",
+      "porkchop": "2025-09-26 02:58:44 +0000",
       "rotten_flesh": "2025-09-26 02:34:52 +0000"
     },
     "done": false
@@ -1884,6 +1889,108 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-09-26 02:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-09-26 02:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-26 02:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-09-26 02:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-26 02:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-09-26 02:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-26 02:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-09-26 03:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-26 03:01:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-26 03:01:47 +0000"
     },
     "done": true
   },
