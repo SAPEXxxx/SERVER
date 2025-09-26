@@ -648,6 +648,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-09-26 03:27:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-09-26 02:24:18 +0000"
@@ -1085,6 +1091,12 @@
       "has_blackstone": "2025-09-26 03:11:17 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "swasher": "2025-09-26 03:25:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
@@ -1842,6 +1854,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-09-26 03:28:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-26 02:34:14 +0000"
@@ -1893,6 +1911,12 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-09-26 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-26 03:26:17 +0000"
     },
     "done": true
   },
@@ -2412,6 +2436,20 @@
     },
     "done": false
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-09-26 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "amethyst_bronze": "2025-09-26 03:25:44 +0000",
+      "rock": "2025-09-26 03:25:44 +0000",
+      "nahuatl": "2025-09-26 03:25:44 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
     "criteria": {
       "has_wool": "2025-09-26 02:45:16 +0000"
@@ -2761,9 +2799,11 @@
       "cooked_mutton": "2025-09-26 02:55:06 +0000",
       "sweet_berries": "2025-09-26 02:22:59 +0000",
       "cooked_beef": "2025-09-26 02:35:03 +0000",
+      "cooked_cod": "2025-09-26 03:26:05 +0000",
       "bread": "2025-09-26 02:43:04 +0000",
       "rotten_flesh": "2025-09-26 02:34:22 +0000",
-      "cooked_chicken": "2025-09-26 02:31:56 +0000"
+      "cooked_chicken": "2025-09-26 02:31:56 +0000",
+      "cooked_salmon": "2025-09-26 03:31:02 +0000"
     },
     "done": false
   },
@@ -2815,9 +2855,21 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-09-26 03:30:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 02:34:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-09-26 03:27:43 +0000"
     },
     "done": true
   },
