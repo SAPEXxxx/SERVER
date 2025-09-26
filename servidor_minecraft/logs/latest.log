@@ -830,3 +830,96 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [26Sep2025 02:47:25.136] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
 [26Sep2025 02:47:25.136] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
 [26Sep2025 02:47:27.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:48:27.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:48:31.381] [Server thread/WARN] [tombstone/]: The death event of the player SAPEXx_ was canceled by another mod
+[26Sep2025 02:48:31.392] [Server thread/INFO] [tombstone/]: The player SAPEXx_ has successfully been saved
+[26Sep2025 02:48:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ was slain by Aptrgangr
+[26Sep2025 02:48:40.115] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[26Sep2025 02:48:40.116] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[26Sep2025 02:48:40.116] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[26Sep2025 02:48:40.116] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[26Sep2025 02:50:22.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:50:23.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:50:27.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:50:39.848] [Server thread/WARN] [tombstone/]: The death event of the player SAPEXx_ was canceled by another mod
+[26Sep2025 02:50:39.849] [Server thread/INFO] [tombstone/]: The player SAPEXx_ has successfully been saved
+[26Sep2025 02:50:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <martius111> 1 0
+[26Sep2025 02:50:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ hit the ground too hard
+[26Sep2025 02:50:48.511] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[26Sep2025 02:50:48.511] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[26Sep2025 02:50:48.511] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[26Sep2025 02:50:48.511] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[26Sep2025 02:51:01.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ was kicked for floating too long!
+[26Sep2025 02:51:01.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Flying is not enabled on this server
+[26Sep2025 02:51:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 02:51:01.086] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 02:51:08.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:52701] logged in with entity id 19041 at (1.6094368663771448, 218.1013273488098, -3.414575664715744)
+[26Sep2025 02:51:08.815] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 02:51:08.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 02:51:09.108] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 02:51:09.108] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 02:51:36.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ was kicked for floating too long!
+[26Sep2025 02:51:36.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Flying is not enabled on this server
+[26Sep2025 02:51:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 02:51:36.832] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 02:51:41.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:51:43.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:58963] logged in with entity id 19202 at (19.499731448507994, 149.29625563421064, 9.10750530326628)
+[26Sep2025 02:51:43.806] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 02:51:43.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 02:51:44.033] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 02:51:44.033] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 02:51:53.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ was kicked for floating too long!
+[26Sep2025 02:51:53.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Flying is not enabled on this server
+[26Sep2025 02:51:53.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 02:51:53.233] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 02:52:04.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:40689] logged in with entity id 19328 at (35.649228187312154, 134.04802882122655, 5.8693699230080085)
+[26Sep2025 02:52:04.254] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 02:52:04.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 02:52:04.488] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 02:52:04.488] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 02:52:14.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ was kicked for floating too long!
+[26Sep2025 02:52:14.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Flying is not enabled on this server
+[26Sep2025 02:52:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 02:52:14.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 02:52:19.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:52383] logged in with entity id 19398 at (51.56851424032232, 119.32413325093331, 1.1253306342449048)
+[26Sep2025 02:52:20.002] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 02:52:20.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 02:52:20.338] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 02:52:20.338] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 02:52:30.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ was kicked for floating too long!
+[26Sep2025 02:52:30.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Flying is not enabled on this server
+[26Sep2025 02:52:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 02:52:30.085] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 02:52:35.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:50651] logged in with entity id 19530 at (64.59442635902226, 105.47412308512489, -3.813849349263008)
+[26Sep2025 02:52:35.503] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 02:52:35.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 02:52:35.733] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 02:52:35.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 02:52:45.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ was kicked for floating too long!
+[26Sep2025 02:52:45.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAPEXx_ lost connection: Flying is not enabled on this server
+[26Sep2025 02:52:45.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ left the game
+[26Sep2025 02:52:45.332] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SAPEXx_
+[26Sep2025 02:52:50.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAPEXx_[/127.98.231.168:47791] logged in with entity id 19650 at (71.90099822684435, 86.80462129741609, -2.8948273829093885)
+[26Sep2025 02:52:50.550] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SAPEXx_
+[26Sep2025 02:52:50.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAPEXx_ joined the game
+[26Sep2025 02:52:50.848] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SAPEXx_ (18)
+[26Sep2025 02:52:50.848] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SAPEXx_
+[26Sep2025 02:53:02.422] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:53:32.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:53:34.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[26Sep2025 02:54:15.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Sep2025 02:54:15.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: figure-transmission.gl.joinmc.link<--[HERE]
+[26Sep2025 02:54:21.107] [Worker-Main-31/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[26Sep2025 02:54:22.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made SAPEXx_ a server operator
+[26Sep2025 02:54:25.162] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/20818, l='ServerLevel[world]', x=-141.50, y=-3.00, z=-375.50] as it would cause deadlock
+[26Sep2025 02:54:25.165] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/20820, l='ServerLevel[world]', x=-136.50, y=22.00, z=-375.50] as it would cause deadlock
+[26Sep2025 02:54:25.223] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/20826, l='ServerLevel[world]', x=-91.50, y=-3.00, z=-368.50] as it would cause deadlock
+[26Sep2025 02:54:27.792] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/20914, l='ServerLevel[world]', x=-85.50, y=-3.00, z=-388.50] as it would cause deadlock
+[26Sep2025 02:54:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAPEXx_: Made martius111 a server operator]
+[26Sep2025 02:54:30.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAPEXx_: Made Hanny_0310 a server operator]
+[26Sep2025 02:54:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAPEXx_: Teleported SAPEXx_ to martius111]
+[26Sep2025 02:54:42.269] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/21038, l='ServerLevel[world]', x=-90.50, y=-28.00, z=-415.50] as it would cause deadlock
+[26Sep2025 02:56:05.070] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/21690, l='ServerLevel[world]', x=-78.50, y=22.00, z=-458.50] as it would cause deadlock
+[26Sep2025 02:56:10.799] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/21771, l='ServerLevel[world]', x=-78.50, y=22.00, z=-466.50] as it would cause deadlock
+[26Sep2025 02:57:11.785] [Server thread/WARN] [tombstone/]: The death event of the player SAPEXx_ was canceled by another mod
+[26Sep2025 02:57:11.840] [Server thread/INFO] [tombstone/]: The player SAPEXx_ has successfully been saved
